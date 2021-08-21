@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emanzek
 - 👀 I’m interested in python, C++, java & React-Native
-- 🌱 I’m currently learning Universiti Teknologi Malaysia (UTM) - Final Year
+- 🌱 I’m graduated from Universiti Teknologi Malaysia (UTM)
 - 📫 How to reach me muhdaimanzaidi98@gmail.com
 
 <!---
